@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="http://x-lines.ru/letters/i/cyrillicbasic/0340/000033/28/0/cposaa4oci3gg3mqqo.png" width="350">
+      <img src="http://x-lines.ru/letters/i/cyrillicbasic/0039/1679e9/30/0/epywao4oeijrgtkqko.png" width="350">
 </p>
 
 ## Информация о проекте
